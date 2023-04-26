@@ -19,9 +19,6 @@
 	pip install gymnasium
 	pip install pytorch
 	pip install stable_baselines3
-	pip install .......
-	pip install .......
-	pip install .......
 
 # Utilisation du code : 
 
