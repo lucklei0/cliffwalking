@@ -3,6 +3,8 @@
 import gymnasium
 from stable_baselines3 import PPO 
 
+# Phase d'entrainement 
+# Enlever les """ si vous voulez reprendre l'entrainement 
 
 """# création de l'environnement
 env = gymnasium.make('CliffWalking-v0')
@@ -15,9 +17,9 @@ model = PPO("MlpPolicy",'CliffWalking-v0', verbose=1)
 # apprentissage de la politique
 TIMESTEPS = 300000
 
-for i in range(10):
-    model.learn(total_timesteps=TIMESTEPS, reset_num_timesteps=False)
-    model.save("ppo_cliffwalking-vo")"""
+
+model.learn(total_timesteps=TIMESTEPS, reset_num_timesteps=False)
+model.save("ppo_cliffwalking-vo")"""
 
 
 # évaluation de la politique
