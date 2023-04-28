@@ -24,6 +24,7 @@
 
 	Apres s'etre assuré d'avoir tous les requirements, il suffit d'executer le code 
 		normalement et d'observer l'accomplissement .
+	Si vous souhaitez procéder à la phase d'entrainement, prière enlever les accolades (""" .... """) pour l'exécution de cette partie du code.
 
 Auteurs : 
 	
@@ -38,4 +39,7 @@ Licence : MiT
 
 
 Contact : Pour plus de questions contactez nous sur houngbocalixte@gmail.com
+													mahafouzeatchade@gmail.com
+													jannotkohouho@gmail.com
+													komahoueluc@gmail.com
 
